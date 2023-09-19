@@ -819,10 +819,8 @@ img {
     transition: transform 0.3s ease;
 }
 .grid-container .grid-item img {
-    width: 150px;
-    /* Зменшення ширини */
-    height: 100px;
-    /* Зменшення висоти */
+    width: 200px;
+    height: 150px;
     object-fit: cover;
     cursor: pointer;
     transition: transform 0.3s ease;
