@@ -713,3 +713,14 @@ img {
 .grid-item:hover {
     transform: scale(1.1);
 }
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+}
